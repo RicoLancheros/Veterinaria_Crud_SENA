@@ -1,0 +1,6 @@
+@Veterinaria_CRUD_Api_Rico_HostAddress = http://localhost:5166
+
+GET {{Veterinaria_CRUD_Api_Rico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

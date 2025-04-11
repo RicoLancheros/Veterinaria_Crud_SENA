@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Veterinaria_CRUD_Api_Rico.props" />
+</Project>
