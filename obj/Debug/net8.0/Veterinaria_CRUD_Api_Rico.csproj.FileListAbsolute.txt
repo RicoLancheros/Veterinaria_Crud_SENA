@@ -101,10 +101,11 @@ D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Ri
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Veterinaria_CRUD_Api_Rico.props
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Veterinaria_CRUD_Api_Rico.props
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\Veterina.D2D52CA1.Up2Date
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\Veterinaria_CRUD_Api_Rico.dll
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\refint\Veterinaria_CRUD_Api_Rico.dll
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\Veterinaria_CRUD_Api_Rico.pdb
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\Veterinaria_CRUD_Api_Rico.genruntimeconfig.cache
 D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\ref\Veterinaria_CRUD_Api_Rico.dll
+D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\Veterinaria_CRUD_Api_Rico.sourcelink.json
+D:\Users\Rico\Desktop\SENA\Trimestre3\Requisitos - Johan\Veterinaria_CRUD_Api_Rico\Veterinaria_CRUD_Api_Rico\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

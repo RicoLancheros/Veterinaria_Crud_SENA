@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Veterinaria_CRUD_Api_Rico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5282594d9314b389155e3bc734d5f871ee934dda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a119e51c59f50fbfd2e23616ad30d414cb380e8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Veterinaria_CRUD_Api_Rico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Veterinaria_CRUD_Api_Rico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

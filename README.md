@@ -1,7 +1,17 @@
-# Veterinaria_Crud_SENA
 
-Bienvenido al proyecto Veterinaria_Crud_SENA, una API RESTful para la gestión de datos de una veterinaria. 
+# Pasos - Informacion #
+1.Comando para la migracion:
+add-migration NombreMigracion
 
+2.Creacion de la base de datos:
+update-database
+
+3.Puerto en donde se prueba el Swagger:
+https://localhost:7061/swagger/index.html
+
+# INFO Veterinaria_Crud_SENA # 
+
+Bienvenido al proyecto Veterinaria_Crud_SENA, una API RESTful para la gestión de datos de una veterinaria!.
 
 Proyecto creado para el curso de Requisitos del SENA, con el profesor Johan Orozco!
 
